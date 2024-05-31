@@ -8,7 +8,7 @@ data storage and management.
 
 
 ## Tech Stack
-### Redis - for saving the urls information in order to enable mapping from the original url to the shortened one
-### Mongo - for managing and storing users information related to their requests 
-### Cassandra - for storing users activity about urls requests.
-### Docker - for Containerization
+### Redis - For saving the urls information in order to enable mapping from the original url to the shortened one
+### Mongo - For managing and storing users information related to their requests 
+### Cassandra - For storing users activity about urls requests.
+### Docker - For Containerization

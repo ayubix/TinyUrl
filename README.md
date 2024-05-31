@@ -1,8 +1,10 @@
 # Tiny Url
 
-Developed a REST API web service using Spring Boot in Java. Implemented URL shortening functionality with advanced features for monitoring,  
+Developed a REST API web service using Spring Boot in Java. Implemented URL shortening functionality with advanced  
 
-tracking, and viewing statistics. Utilized Redis, MongoDB, Cassandra, and Docker to ensure  effective data storage and management.
+features for monitoring, tracking, and viewing statistics. Utilized Redis, MongoDB, Cassandra, and Docker to ensure effective  
+
+data storage and management.
 
 
 ## Tech Stack
